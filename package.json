@@ -1,7 +1,7 @@
 {
   "name": "webpack-crash-course",
   "version": "1.0.0",
-  "description": "",
+  "description": "本リポジトリは、Udemyのプログラミングコース「モジュールバンドラーwebpackを1日で習得！しかもフルスクラッチでインストールからカスタマイズまでの手順を理解する」",
   "main": "index.js",
   "scripts": {
     "launch": "webpack-dev-server --open --mode production",
